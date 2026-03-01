@@ -19,4 +19,3 @@ skills = {
     "Tools": ["Docker", "Git", "AWS", "CI/CD"]
 }
 
-[Contacts](contacts.md)

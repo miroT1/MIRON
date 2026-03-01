@@ -14,8 +14,7 @@ theme:
 
 nav:
   - Главная: index.md
-  - Лабы:
-#      - 11 лаба:
+
 
 
 extra_css:
